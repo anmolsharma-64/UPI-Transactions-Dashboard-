@@ -180,5 +180,27 @@ UPI-Transactions-Dashboard/
 
 ---
 
+## 📚 What I Learned
 
-⭐ If you found this project useful, please star the repository!
+**Technical skills**
+- Connecting Excel data to Power BI and understanding how the data model works.
+- Using the **date hierarchy** (Year → Quarter → Month) to build time-based trends.
+- Creating **calculated columns** (Age Groups) for customer segmentation.
+- Choosing the right visual: **line charts** for trends, **column charts** for comparison, **matrix** for two-dimensional analysis.
+- Using **slicers**, **bookmarks** and **conditional formatting** to make a report interactive and easy to read.
+- Understanding how filters change every visual on a page at the same time.
+
+**Analytical skills**
+- Checking data quality *before* building visuals.
+- Turning raw rows into a clear story: what happened each month, and where.
+- Noticing when a dataset looks simulated (evenly spread categories) and not over-claiming real-world conclusions.
+
+**Soft skills**
+- Designing a dashboard so a non-technical person can use it without help.
+- Explaining a project clearly in documentation.
+
+---
+
+## 📝 Project Summary
+
+> **UPI Transactions Dashboard (Excel, Power BI):** Built a 2-page interactive Power BI dashboard on 20,000 UPI transactions, with 10 slicers and bookmark-based chart switching, to analyze monthly amount and balance trends across cities, banks and customer segments.
